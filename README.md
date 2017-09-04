@@ -3,8 +3,6 @@ Express TypeScript Starter
 
 [![Dependency Status](https://david-dm.org/bowdenk7/express-typescript-starter.svg)](https://david-dm.org/bowdenk7/express-typescript-starter) [![Build Status](https://travis-ci.org/bowdenk7/express-typescript-starter.svg?branch=master)](https://travis-ci.org/bowdenk7/express-typescript-starter) 
 
-**Live Demo**: TODO
-
 # Pre-reqs
 - Install [Node.js](https://nodejs.org/en/)
 - Install [MongoDB](https://docs.mongodb.com/manual/installation/)
@@ -13,7 +11,7 @@ Express TypeScript Starter
 # Getting started
 - Clone the repository
 ```
-git clone --depth=1 https://github.com/bowdenk7/express-typescript-starter.git <project_name>
+git clone --depth=1 <repo>
 ```
 - Install dependencies
 ```
